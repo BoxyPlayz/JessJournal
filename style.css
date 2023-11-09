@@ -5,6 +5,7 @@
 
 body{
   background-image: src(2.PNG)
+  background-size: cover;
 }
 
 h1{
