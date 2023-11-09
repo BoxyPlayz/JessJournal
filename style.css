@@ -1,7 +1,13 @@
+@font-face{
+  font-family:Orbitron;
+  src: url(Fonts/Orbitron-VariableFont_wght.ttf)
+}
+
 body{
   background-color:black;
 }
 
 h1{
+  font-family: Orbitron;
   color:green;
 }
