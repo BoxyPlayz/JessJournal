@@ -4,8 +4,8 @@
 }
 
 body{
-  color: #000000;
-  background-color:#000000;
+  color: blue;
+  background-color: blue;
   background-image: src(2.PNG)
   background-size: cover;
 }
