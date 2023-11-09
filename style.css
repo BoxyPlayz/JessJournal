@@ -3,14 +3,14 @@
   src: url(Fonts/Orbitron-VariableFont_wght.ttf)
 }
 
-body{
+body {
   color: Black;
   background-color: Black;
   background-image: src(2.PNG)
   background-size: cover;
 }
 
-h1{
+h1 {
   font-family: Orbitron;
   color:green;
 }
