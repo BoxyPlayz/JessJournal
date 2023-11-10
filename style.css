@@ -1,11 +1,12 @@
 @font-face {
-  font-family:Orbitron;
+  font-family: Orbitron;
   src: url(Fonts/Orbitron-VariableFont_wght.ttf)
 }
 
 .title h1 {
   color: black;
   font-family: Orbitron;
+  text-align: center;
 }
 
 .title {
