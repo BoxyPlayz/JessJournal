@@ -45,3 +45,9 @@ button{
 #foot:hover {
   background-color: rgb(0, 200, 0)
 }
+
+.main {
+  font-size: 16;
+  font-family: Orbitron;
+  color: green;
+}
