@@ -26,6 +26,10 @@ body {
   background-size: cover;
 }
 
+button{
+  background-color: green;
+}
+
 #foot {
   margin: 0px;
   background-color: green;
