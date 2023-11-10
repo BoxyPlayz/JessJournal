@@ -27,6 +27,7 @@ body {
 }
 
 #foot {
+  margin: 0px;
   background-color: green;
   color: black;
   font-size: 16px;
@@ -34,6 +35,10 @@ body {
   position: absolute;
   bottom: 0;
   min-width: 100%;
+  top: 0px
+  right: 0px
+  left: 0px;
+bottom: 0px
 }
 
 #foot:hover {
