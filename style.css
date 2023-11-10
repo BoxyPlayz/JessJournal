@@ -26,13 +26,13 @@ body {
   background-size: cover;
 }
 
-.foot {
+#foot {
   background-color: green;
   color: black;
   font-size: 16px;
   vertical-align: bottom;
 }
 
-.foot:hover {
+#foot:hover {
   background-color: rgb(0, 200, 0)
 }
