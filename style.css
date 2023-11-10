@@ -30,6 +30,7 @@ body {
   background-color: green;
   color: black;
   font-size: 16px;
+  vertical-align: bottom;
 }
 
 .foot:hover {
