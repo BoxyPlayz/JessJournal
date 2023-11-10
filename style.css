@@ -33,6 +33,7 @@ body {
   vertical-align: bottom;
   position: absolute;
   bottom: 0;
+  min-width: 100%;
 }
 
 #foot:hover {
