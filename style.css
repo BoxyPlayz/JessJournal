@@ -13,11 +13,10 @@
 }
 
 .title:hover {
-  background-color: #09d102;
+  background-color: rgb(9, 209, 2);
 }
 
 body {
-  color: black;
   background-color: black;
   background-image: src(1.png)
   height: 500px; 
