@@ -3,6 +3,19 @@
   src: url(Fonts/Orbitron-VariableFont_wght.ttf)
 }
 
+.title h1 {
+  color: black;
+  font-family: Orbitron;
+}
+
+.title {
+  background-color: green;
+}
+
+.title:hover {
+  background-color: #09d102;
+}
+
 body {
   color: black;
   background-color: black;
@@ -13,7 +26,3 @@ body {
   background-size: cover;
 }
 
-h1 {
-  font-family: Orbitron;
-  color:green;
-}
