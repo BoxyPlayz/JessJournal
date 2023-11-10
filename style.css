@@ -46,7 +46,7 @@ button{
   background-color: rgb(0, 200, 0)
 }
 
-.main p {
+.main label {
   font-size: 16;
   font-family: Orbitron;
   color: white;
